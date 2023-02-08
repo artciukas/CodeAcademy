@@ -19,7 +19,7 @@ if 'Antras' and "pirmas" in my_list:
 else:
     print("No it's does not")
 
-
+# komentaras
 #  naudoti and ir or
 # pass if, elif, else statmenta galima praleisti.
 
