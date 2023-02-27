@@ -1,0 +1,53 @@
+22/02/2023 19:50:28 - root - DEBUG - Entered number
+22/02/2023 19:50:53 - root - DEBUG - Entered number aaa
+22/02/2023 19:51:49 - root - DEBUG - Error: invalid literal for int() with base 10: 'asda'
+22/02/2023 19:54:19 - root - DEBUG - Entered number 2
+22/02/2023 19:54:19 - root - DEBUG - Can't devide from zero
+22/02/2023 19:55:40 - root - DEBUG - Entered number 2
+22/02/2023 19:55:43 - root - DEBUG - Can't devide from zero
+22/02/2023 19:55:54 - root - DEBUG - Entered number 5
+22/02/2023 19:56:01 - root - DEBUG - Answer: 9
+22/02/2023 19:57:08 - root - DEBUG - Entered number 9
+22/02/2023 19:57:10 - root - DEBUG - Can't devide from zero
+22/02/2023 20:04:35 - root - DEBUG - Entered number 2
+22/02/2023 20:04:39 - root - DEBUG - Answer: 5
+22/02/2023 20:04:48 - root - DEBUG - Can not find Tomas key on my dictionary, but we add: {'name': 'Tomas', 'phone': '12236654987'}
+22/02/2023 20:05:47 - root - DEBUG - Entered number 6
+22/02/2023 20:05:49 - root - DEBUG - Answer: 8
+22/02/2023 20:05:52 - root - DEBUG - Entered key are: name
+22/02/2023 20:05:52 - root - DEBUG - Tomas
+22/02/2023 20:09:36 - root - DEBUG - Entered number 7 is sucess
+22/02/2023 20:09:41 - root - DEBUG - Entered number are: 12
+22/02/2023 20:09:41 - root - DEBUG - Answer number / number is: 12
+22/02/2023 20:09:48 - root - DEBUG - Entered key are: phone
+22/02/2023 20:09:48 - root - DEBUG - 12236654987
+22/02/2023 20:13:36 - root - DEBUG - Error: invalid literal for int() with base 10: 'sdf'
+22/02/2023 20:13:38 - root - DEBUG - Entered number are: 0
+22/02/2023 20:13:38 - root - DEBUG - Can't devide from zero
+22/02/2023 20:13:44 - root - DEBUG - Can not find ddd key on my dictionary, but we add: {'name': 'Tomas', 'phone': '12236654987'}
+22/02/2023 20:16:01 - root - DEBUG - Error: invalid literal for int() with base 10: ''
+22/02/2023 20:17:05 - root - DEBUG - Entered number 2 is sucess
+22/02/2023 20:17:37 - root - DEBUG - Entered number 2 is sucess
+22/02/2023 20:17:38 - root - DEBUG - Entered number are: 5
+22/02/2023 20:17:38 - root - DEBUG - Answer number / number is: 5
+22/02/2023 20:17:40 - root - DEBUG - Can not find sd key on my dictionary, but we add: {'name': 'Tomas', 'phone': '12236654987'}
+22/02/2023 20:18:38 - root - DEBUG - Error: invalid literal for int() with base 10: 'sd'
+22/02/2023 20:21:21 - root - DEBUG - Entered number 1 is sucess
+22/02/2023 20:25:08 - root - DEBUG - Entered number 5 is sucess
+22/02/2023 20:25:09 - root - DEBUG - Please enter only numbers
+22/02/2023 20:25:11 - root - DEBUG - Can not find fdsg key on my dictionary.
+22/02/2023 20:47:56 - root - DEBUG - Entered number 3 is sucess
+22/02/2023 20:47:56 - root - DEBUG - Entered number are: 0
+22/02/2023 20:47:56 - root - DEBUG - Can't devide from zero
+22/02/2023 20:47:57 - root - DEBUG - Please enter only numbers
+22/02/2023 20:51:41 - root - DEBUG - Entered number 5 is sucess
+22/02/2023 20:51:41 - root - DEBUG - Entered number are: 0
+22/02/2023 20:51:41 - root - DEBUG - Can't devide from zero
+22/02/2023 20:51:43 - root - DEBUG - Entered number are: 0
+22/02/2023 20:51:43 - root - DEBUG - Can't devide from zero
+22/02/2023 20:51:52 - root - DEBUG - Entered key are: name
+27/02/2023 17:32:57 - root - DEBUG - Entered number 1 is sucess
+27/02/2023 17:32:57 - root - DEBUG - Entered number are: 0
+27/02/2023 17:32:57 - root - DEBUG - Can't devide from zero
+27/02/2023 17:33:00 - root - DEBUG - Entered number are: 3
+27/02/2023 17:33:00 - root - DEBUG - Answer number / number is: 3
