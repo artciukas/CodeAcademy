@@ -13,7 +13,7 @@ puzzle_pieces([9, 8, 7], [7, 8, 9, 10]) ➞ False
 
 first_list = [1, 2, 3, 4]
 second_list = [4, 3, 2, 1]
-sum_list = []
+# sum_list = []
 
 def two_list_sum(first_list, second_list):
     
@@ -32,22 +32,10 @@ def two_list_sum(first_list, second_list):
             print(a)
             
             print("Lygu")
-        
-
-            
-
-
+    
     else:
         # print("1")
         return False
 
-
-
-
 print(two_list_sum(first_list, second_list))
 
-"""
-for index, value in enumerate(my_list):
-    # print(index, value)
-    my_dictionary[index] = value
-"""
