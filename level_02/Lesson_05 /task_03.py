@@ -15,3 +15,6 @@ class TimeUtils:
         return f'Time {time} is equel: {time_to_seconds}s'
 
 print(TimeUtils.time_to_seconds(time = "05:00:00"))
+
+
+
