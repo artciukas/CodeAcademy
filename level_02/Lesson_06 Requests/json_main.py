@@ -18,6 +18,6 @@ data = '''{
   ]   
 }'''
 
-data_dict = json.loads(data)
-print(data_dict)
-print(type(data_dict))
+# data_dict = json.loads(data)
+# print(data_dict)
+# print(type(data_dict))
