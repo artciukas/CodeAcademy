@@ -24,7 +24,6 @@ class Shape:
         self.sides = sides
 
     def get_shape_area(self):
-        
         return self.sides * self.sides
     
 class Rectangle(Shape):

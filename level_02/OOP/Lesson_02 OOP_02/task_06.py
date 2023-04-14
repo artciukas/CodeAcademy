@@ -5,6 +5,15 @@ After table is assigned to you, system should show how many free tables are and 
 The system must be able to show name/surname of the person of the reserved table 
 (CLI option : enter reserved table nuber ; OUTCOME: Name/Surname/Time Reserved)
 
+Planas:
+Class Restaurant
+Sukurti duomenu vaze ir irasiti i faila(pickle)
+Apra
+
+
+
+
+
 After assigning table, system should show different menu options for breakfast, lunch , dinner , 
 drinks (alcohol. alcohol free), to choose from. 
 
@@ -19,6 +28,9 @@ Add an option to add tips (% from the full cost) to the final bill.
 After the payment , system should generate the receipt (logging).
 
 """
+
+
+
 import datetime
 
 
